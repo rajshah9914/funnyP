@@ -1,0 +1,25 @@
+{
+  "name": "epsile",
+  "version": "1.0.0",
+  "description": "epsile - an anonymous one-to-one chat ====",
+  "main": "epsile-server.js",
+  "dependencies": {
+    "express": "^3.21.2",
+    "socket.io": "^0.9.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-j/epsile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-j/epsile/issues"
+  },
+  "homepage": "https://github.com/daniel-j/epsile#readme"
+}
